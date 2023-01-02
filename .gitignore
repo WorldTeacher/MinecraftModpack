@@ -10,3 +10,10 @@
 .minecraft/defaultconfigs/
 .minecraft/usercache.json
 -minecraft/usernamecache.json
+.packignore
+instance.cfg
+mmc-pack.json
+.minecraft/options.txt
+.minecraft/optionsof.txt
+.minecraft/optionsshaders.txt
+.minecraft/usernamecache.json
