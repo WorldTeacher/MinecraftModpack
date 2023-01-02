@@ -1,0 +1,14 @@
+name = "One Player Sleep +"
+filename = "ops1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c2510f3927c00c3a094dc1d191cf968dceed7ecc"
+
+[update]
+[update.curseforge]
+file-id = 3818624
+project-id = 630994

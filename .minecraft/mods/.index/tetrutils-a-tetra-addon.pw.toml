@@ -1,0 +1,14 @@
+name = "Tetrutils"
+filename = "tetrutils-1.1-BETA (Advancement B).jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "257b5ca02c5690dc1788e04322e4139f727bfc37"
+
+[update]
+[update.curseforge]
+file-id = 4275797
+project-id = 678779
