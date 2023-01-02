@@ -1,4 +1,6 @@
 .directory
 .minecraft/crash-reports/
-
-.minecraft/journeymap/data/mp/
+.minecraft/saves/
+.minecraft/journeymap/
+.minecraft/logs/
+.minecraft/backups/
