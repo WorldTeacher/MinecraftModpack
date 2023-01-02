@@ -7,3 +7,6 @@
 .minecraft/local/
 .minecraft/schematics/
 .minecraft/patchouli_books/
+.minecraft/defaultconfigs/
+.minecraft/usercache.json
+-minecraft/usernamecache.json
