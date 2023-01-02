@@ -4,4 +4,6 @@
 .minecraft/journeymap/
 .minecraft/logs/
 .minecraft/backups/
-.minecraft/local/ftbchunks/
+.minecraft/local/
+.minecraft/schematics/
+.minecraft/patchouli_books/
