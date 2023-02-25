@@ -1,14 +1,14 @@
 name = "Tinkers Reforged"
-filename = "Tinkers Reforged 1.18.2-1.1.6.jar"
+filename = "Tinkers Reforged 1.18.2-2.0.1.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "3843733d0fd7a184ed604bf6eaba00a203c29ab9"
+hash = "bf210880e752b70a38187a2ff48681b96ef8e13a"
 
 [update]
 [update.curseforge]
-file-id = 4167207
+file-id = 4392716
 project-id = 376876
